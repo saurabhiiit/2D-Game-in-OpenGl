@@ -1,0 +1,13 @@
+Controls
+
+velocity up - left arrow
+velocity down - right arrow
+rotate up - up arrow , CURSOR
+rotate down - down arrow,CURSOR
+key o - zoom out
+key i - zoom in 
+keyk- panleft
+keyl- pan right
+space -shoot
+ARROR -SHOOT 
+
